@@ -1,0 +1,9 @@
+Copyright (c) 2026 Smash. All Rights Reserved.
+
+This project and all of its contents, including source files, data
+compilations, workbooks, and documentation, are the exclusive property
+of the copyright holder.
+
+No part of this project may be copied, modified, distributed, sublicensed,
+or used for any purpose without prior written permission from the
+copyright holder.
