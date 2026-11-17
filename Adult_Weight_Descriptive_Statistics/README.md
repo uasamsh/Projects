@@ -40,5 +40,27 @@ Analyse the weight data of 50 adults to understand the average weight, the most 
 | RF Histo | Relative frequency histogram + cumulative % |
 | Pie | Share of adults per weight bin |
 
+## Charts & Visual Analysis
+
+### 1. Project Overview Dashboard
+
+<img width="741" height="747" alt="Project Overview" src="https://github.com/user-attachments/assets/4d5de559-0ff5-484e-9f84-94550a67f892" />
+
+
+
+### 2. Descriptive Statistics Summary (Mean, Median, Mode)
+*(yahan Ctrl + V se Weights sheet ka screenshot paste karein)*
+
+### 3. Dot Plot Distribution
+*(yahan Ctrl + V se Dot Plot ka screenshot paste karein)*
+
+### 4. Relative Frequency & Cumulative % Histogram
+*(yahan Ctrl + V se RF Histo ka screenshot paste karein)*
+
+### 5. Weight Distribution Pie Chart
+*(yahan Ctrl + V se Pie Chart ka screenshot paste karein)*
+
+
+
 ## How to Use
 Open `Adult_Weight_Descriptive_Statistics_Project.xlsx` in Excel. All results are formulas linked to the **Weights** sheet, so changing the data updates every table and chart.
