@@ -18,6 +18,12 @@ A Tableau project that visualizes world population by country from 1970 to 2022.
 | World Population Percentage | Share of world population |
 | Rank | Rank by 2022 population |
 
+## 📊 Visualization Preview
+
+### Global Population Choropleth Map (2022)
+<img width="1023" height="523" alt="image" src="https://github.com/user-attachments/assets/30872483-81bb-4521-a2e1-09d4bea9be6d" />
+
+
 ## Project Files
 ```
 ├── data/World_Population_Live_Dataset.csv
@@ -35,7 +41,7 @@ A Tableau project that visualizes world population by country from 1970 to 2022.
 - Namibia's country code is `NA`; some tools read it as an empty value. In pandas, use `keep_default_na=False`.
 
 ## Author
-Smash — [GitHub](https://github.com/)
+Uzma Ejaz — [GitHub](https://github.com/)
 
 ## License
 All Rights Reserved. See [LICENSE](LICENSE).
