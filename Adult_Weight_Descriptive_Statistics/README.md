@@ -47,18 +47,21 @@ Analyse the weight data of 50 adults to understand the average weight, the most 
 <img width="741" height="747" alt="Project Overview" src="https://github.com/user-attachments/assets/4d5de559-0ff5-484e-9f84-94550a67f892" />
 
 
-
 ### 2. Descriptive Statistics Summary (Mean, Median, Mode)
-*(yahan Ctrl + V se Weights sheet ka screenshot paste karein)*
+<img width="1335" height="822" alt="image" src="https://github.com/user-attachments/assets/b8239a72-3cad-4738-8e89-58fad9778842" />
+
 
 ### 3. Dot Plot Distribution
-*(yahan Ctrl + V se Dot Plot ka screenshot paste karein)*
+<img width="1331" height="835" alt="image" src="https://github.com/user-attachments/assets/3f4c7d8e-3813-4eb3-8c07-d02b06ec5d2e" />
+
 
 ### 4. Relative Frequency & Cumulative % Histogram
-*(yahan Ctrl + V se RF Histo ka screenshot paste karein)*
+<img width="1715" height="847" alt="image" src="https://github.com/user-attachments/assets/676ce5da-7685-408b-adea-b1ae1989db3b" />
+
 
 ### 5. Weight Distribution Pie Chart
-*(yahan Ctrl + V se Pie Chart ka screenshot paste karein)*
+<img width="1692" height="831" alt="image" src="https://github.com/user-attachments/assets/f6644ac0-d231-4d92-ac8a-e417812e7f20" />
+
 
 
 
